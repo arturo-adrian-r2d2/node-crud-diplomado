@@ -1,0 +1,8 @@
+PORT=3001
+
+DB_HOST=dpg-d6lt664hg0os73avfnk0-a.oregon-postgres.render.com
+DB_USER=arturo
+DB_PASSWORD=iZNjSEyCqTmDoXdFYiydX7izD8T8m9SO
+DB_DATABASE=diplomado_db_6nte
+DB_DIALECT=postgres
+DB_USE_SSL=true
